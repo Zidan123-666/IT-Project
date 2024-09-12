@@ -1,2 +1,2 @@
 # IT-Project
-Membuat  sistem manajeman berbasis WEB
+Membuat  sistem Informasi Java JUice berbasis WEB
